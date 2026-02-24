@@ -1,8 +1,8 @@
-// primary
+// primary, fallback
 {
-  "mode": "fallback",
+  "mode": "primary",
   "primary": {
-    "host": "tunnel.focuscore.nl",
+    "host": "remote.focuscore.nl",
     "user": "tunnel",
     "port": "22"
   },
