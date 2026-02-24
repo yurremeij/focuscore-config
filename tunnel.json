@@ -1,0 +1,13 @@
+{
+  "mode": "fallback",
+  "primary": {
+    "host": "tunnel.focuscore.nl",
+    "user": "tunnel",
+    "port": "22"
+  },
+  "fallback": {
+    "host": "localhost.run",
+    "user": "nokey",
+    "port": "22"
+  }
+}
