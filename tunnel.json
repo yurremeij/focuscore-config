@@ -1,5 +1,6 @@
 {
   "mode": "primary",
+  "usePersistentSubdomains": true,
   "primary": {
     "host": "remote.focuscore.nl",
     "user": "anything",
